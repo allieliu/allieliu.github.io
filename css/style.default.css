@@ -3,6 +3,7 @@
 /* ========================================= */
 .main {
   background-position: center center;
+  background-image: url("http://i.imgur.com/se7zH6e.jpg");
   background-size: cover;
   height: auto;
   left: 0;
@@ -23,9 +24,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background: #000;
-  opacity: 0.3;
-  filter: alpha(opacity=30);
+  filter: alpha(opacity=90);
   z-index: 1;
 }
 .main .container {
@@ -42,7 +41,7 @@
   height: auto;
   z-index: 1;
   overflow: hidden;
-  background-image: url('../img/video-bg.jpg');
+  background-image: url('http://i.imgur.com/se7zH6e.jpg');
   background-position: center center;
   background-size: cover;
 }
