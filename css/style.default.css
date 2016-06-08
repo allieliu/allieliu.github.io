@@ -62,7 +62,11 @@ h4.heading:after {
   margin: 0 auto;
   border-radius: 0%;
 }
+
+#my-pic {
+  border-radius: 50%;
 }
+
 .box {
   margin-bottom: 30px;
 }
