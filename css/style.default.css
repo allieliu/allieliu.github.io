@@ -106,6 +106,7 @@ INTRO
 .intro h2,
 .intro h3 {
   color: #fff;
+  position: relative;
 }
 .intro span.bold {
   font-weight: 700;
